@@ -1,0 +1,24 @@
+body
+{
+    text-align:center;
+}
+p,h1{
+    font-size:30px;
+    color:rgb(13, 12, 13);
+}
+img{
+    border:5px solid rgb(0, 255, 110);
+}
+.link
+{
+    -moz-text-decoration-style: none;
+    color:rgb(118, 42, 165)
+}
+#heading
+{
+  text-align:center;
+}
+ol{
+    text-align: center;
+}
+
